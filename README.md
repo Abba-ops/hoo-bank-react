@@ -5,17 +5,20 @@
 ![HooBank Website](https://i.ibb.co/q7KJzqN/hoobank.png)
 
 ## Introduction 
-The HooBank Modern Website repository contains a prototype of a bank webpage developed for educational purposes. The website was created using React.js and is intended to showcase the process of converting a Figma design into a responsive webpage.
+HooBank Modern Website is a prototype of a bank webpage created using React.js. This project serves as an educational example of converting a Figma design into a responsive webpage.
 
 ## Setup
+
 To view the website locally, follow these steps:
 
-1. Install the dependencies by running the following command:
+1. Install the dependencies:
+
     ```sh
     npm i
     ```
 
-2. Start the development server using the following command:
+2. Start the development server:
+
     ```sh
     npm run dev
     ```
